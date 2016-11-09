@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="단어 뒤집기.cpp" />
     <ClCompile Include="문자열 변환.cpp" />
     <ClCompile Include="반복되지 않는 첫 번째 문자 찾기.cpp" />
   </ItemGroup>
