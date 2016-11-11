@@ -27,5 +27,8 @@
     <ClCompile Include="문자열에서 특정 문자들 삭제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Counting Sort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Counting Sort.cpp" />
     <ClCompile Include="단어 뒤집기.cpp" />
     <ClCompile Include="문자열 변환.cpp" />
     <ClCompile Include="문자열에서 특정 문자들 삭제.cpp" />
