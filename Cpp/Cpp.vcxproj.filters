@@ -42,5 +42,8 @@
     <ClCompile Include="공약수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소수 구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
