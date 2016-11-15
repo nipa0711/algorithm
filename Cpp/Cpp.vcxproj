@@ -148,9 +148,11 @@
   <ItemGroup>
     <ClCompile Include="Counting Sort.cpp" />
     <ClCompile Include="공약수.cpp" />
+    <ClCompile Include="괄호 짝 검사.cpp" />
     <ClCompile Include="단어 뒤집기.cpp" />
     <ClCompile Include="문자열 변환.cpp" />
     <ClCompile Include="문자열에서 특정 문자들 삭제.cpp" />
+    <ClCompile Include="문장 속 단어 변환.cpp" />
     <ClCompile Include="반복되지 않는 첫 번째 문자 찾기.cpp" />
     <ClCompile Include="소수 구하기.cpp" />
     <ClCompile Include="약수.cpp" />
